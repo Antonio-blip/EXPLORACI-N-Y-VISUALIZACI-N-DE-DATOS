@@ -1,2 +1,2 @@
-# EXPLORACI-N-Y-VISUALIZACI-N-DE-DATOS
+# Exploración y visualización de datos
 Entrega
